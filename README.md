@@ -9,3 +9,5 @@ The RedTribe website is home to our orginization RedTribe. Established in 2019, 
 *v1.1* | Added a better image for the reader to clearly see the content. Our background before was staright red, which hurt my eyes and probably yours too. I fixed this, making it easier, non-eye hurting, and comfortable.
 
 *v1.1* | Deleted the background because text and images would not be pleased to fit inside the background's stomach so we needed to delete it as soon as we saw this issue. R.I.P. Background 2019-2019
+
+*v1.1* | Added a navigation bar so users can easily scroll and navigate fastly using the all new legendary navagation bar.
